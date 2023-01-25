@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<img src="https://media0.giphy.com/media/42YlR8u9gV5Cw/giphy.gif?cid=ecf05e477e58cece87e7d2d737e8d17a0fd64e5929895f3f&rid=giphy.gif&ct=g" />
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juandrojasr)](https://github.com/anuraghazra/github-readme-stats)
 
